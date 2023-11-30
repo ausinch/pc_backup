@@ -1,0 +1,6 @@
+## Demo file.  This file is regenerated from your PC_list.txt on first run so it will be deleted.
+##   After deletion and recreation from PC_list.txt - Information here is relivent for one day, the day this file is created.
+##   Make sure file PC_list.txt lists your target machines.
+
+# Thu 30 Nov 16:00:01 CET 2023
+lego-lt3 chris /home/ /etc/

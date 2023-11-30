@@ -1,0 +1,107 @@
+# Demo file - this file will be appended to so please feel free to delete it before you run it on your network.  It will be recreated by the script.
+#  Chris - Do 30 Nov 2023 22:28:43 CET
+============================================
+Thu 30 Nov 08:00:01 CET 2023
+--------------------------------------------
+Backing up chris-pc - Thu 30 Nov 08:00:01 CET 2023
+Directory: /home/ /etc/
+Backing up chris-pc:/home/ /home/BACKUP/PCs/chris-pc/home/  Fail. Rsync error: 24
+Backing up chris-pc:/etc/ /home/BACKUP/PCs/chris-pc/etc/  Success
+Time taken: 00:39:03
+--------------------------------------------
+Backing up lego-pc - Thu 30 Nov 08:39:04 CET 2023
+Directory: /home/ /etc/
+Backing up lego-pc:/home/ /home/BACKUP/PCs/lego-pc/home/  Success
+Backing up lego-pc:/etc/ /home/BACKUP/PCs/lego-pc/etc/  Success
+Time taken: 00:08:22
+--------------------------------------------
+lego-lt3 is not on
+--------------------------------------------
+claudia-lt2 is not on
+--------------------------------------------
+Backing up mqtt-pi - Thu 30 Nov 08:47:37 CET 2023
+Directory: /home/ /etc/
+Backing up mqtt-pi:/home/ /home/BACKUP/PCs/mqtt-pi/home/  Success
+Backing up mqtt-pi:/etc/ /home/BACKUP/PCs/mqtt-pi/etc/  Success
+Time taken: 00:00:12
+--------------------------------------------
+Backing up Lego-Mycroft - Thu 30 Nov 08:47:48 CET 2023
+Directory: /home/ /etc/ /opt/
+Backing up Lego-Mycroft:/home/ /home/BACKUP/PCs/Lego-Mycroft/home/  Success
+Backing up Lego-Mycroft:/etc/ /home/BACKUP/PCs/Lego-Mycroft/etc/  Success
+Backing up Lego-Mycroft:/opt/ /home/BACKUP/PCs/Lego-Mycroft/opt/  Success
+Time taken: 00:01:31
+--------------------------------------------
+Backing up vondaeniken-pc - Thu 30 Nov 08:49:19 CET 2023
+Directory: /home/ /etc/
+Backing up vondaeniken-pc:/home/ /home/BACKUP/PCs/vondaeniken-pc/home/  Fail. Rsync error: 24
+Backing up vondaeniken-pc:/etc/ /home/BACKUP/PCs/vondaeniken-pc/etc/  Success
+Time taken: 00:03:39
+--------------------------------------------
+Backing up debian10-vm.local - Thu 30 Nov 08:52:58 CET 2023
+Directory: /home/ /etc/
+Backing up debian10-vm.local:/home/ /home/BACKUP/PCs/debian10-vm.local/home/  Success
+Backing up debian10-vm.local:/etc/ /home/BACKUP/PCs/debian10-vm.local/etc/  Success
+Time taken: 00:00:18
+--------------------------------------------
+Backing up localhost - Thu 30 Nov 08:53:16 CET 2023
+Directory: /etc/ /usr/local/nagios/ /usr/local/backup/
+Backing up localhost:/etc/ /home/BACKUP/PCs/localhost/etc/  Success
+Backing up localhost:/usr/local/nagios/ /home/BACKUP/PCs/localhost/usr/local/nagios/  Success
+Backing up localhost:/usr/local/backup/ /home/BACKUP/PCs/localhost/usr/local/backup/  Success
+Time taken: 00:00:45
+............................................
+Total backup time taken: 00:54:00
+--------------------------------------------
+Continue with missing PCs 
+# Thu 30 Nov 08:00:01 CET 2023
+lego-lt3 chris /home/ /etc/
+claudia-lt2 claudia /home/ /etc/
+Thu 30 Nov 10:00:01 CET 2023
+--------------------------------------------
+lego-lt3 is not on
+--------------------------------------------
+claudia-lt2 is not on
+............................................
+Total backup time taken: 00:00:10
+--------------------------------------------
+Continue with missing PCs 
+# Thu 30 Nov 10:00:01 CET 2023
+lego-lt3 chris /home/ /etc/
+claudia-lt2 claudia /home/ /etc/
+Thu 30 Nov 12:00:01 CET 2023
+--------------------------------------------
+lego-lt3 is not on
+--------------------------------------------
+claudia-lt2 is not on
+............................................
+Total backup time taken: 00:00:04
+--------------------------------------------
+Continue with missing PCs 
+# Thu 30 Nov 12:00:01 CET 2023
+lego-lt3 chris /home/ /etc/
+claudia-lt2 claudia /home/ /etc/
+Thu 30 Nov 14:00:01 CET 2023
+--------------------------------------------
+lego-lt3 is not on
+--------------------------------------------
+claudia-lt2 is not on
+............................................
+Total backup time taken: 00:00:03
+--------------------------------------------
+Continue with missing PCs 
+# Thu 30 Nov 14:00:01 CET 2023
+lego-lt3 chris /home/ /etc/
+claudia-lt2 claudia /home/ /etc/
+Thu 30 Nov 16:00:01 CET 2023
+--------------------------------------------
+lego-lt3 is not on
+--------------------------------------------
+Backing up claudia-lt2 - Thu 30 Nov 16:00:01 CET 2023
+Directory: /home/ /etc/
+Backing up claudia-lt2:/home/ /home/BACKUP/PCs/claudia-lt2/home/  Success
+Backing up claudia-lt2:/etc/ /home/BACKUP/PCs/claudia-lt2/etc/  Success
+Time taken: 00:24:39
+............................................
+Total backup time taken: 00:24:39
+###  Above is part of the the demo file  ###

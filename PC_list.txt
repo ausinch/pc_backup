@@ -1,0 +1,14 @@
+###  replace all entries with your machines  ###
+#PC_name User Directories . . . .
+#----------------------------
+chris-pc chris /home/ /etc/
+lego-pc chris /home/ /etc/
+lego-lt3 chris /home/ /etc/
+#tim-pc chris /home/ /etc/
+claudia-lt2 claudia /home/ /etc/
+mqtt-pi chris /home/ /etc/
+#legoroom-pi pi /home/ /etc/
+Lego-Mycroft pi /home/ /etc/ /opt/
+vondaeniken-pc familie /home/ /etc/
+debian10-vm.local root /home/ /etc/
+localhost root /etc/ /usr/local/nagios/ /usr/local/backup/ 
